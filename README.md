@@ -1,2 +1,2 @@
 # nonamemod
-/ days to Die Code Snippet
+/ days to Die Code Snippets
