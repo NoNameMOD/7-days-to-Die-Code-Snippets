@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Icon loading test" />
+		<Description value="Example for loading custom item icons" />
+		<Author value="Christian 'Alloc' Illy" />
+		<Version value="2" />
+		<Website value="http://illy.bz/tmp/ItemIconTest.7z" />
+	</ModInfo>
+</xml>
